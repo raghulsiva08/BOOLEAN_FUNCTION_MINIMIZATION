@@ -39,8 +39,10 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0db34252-4865-410e-a513-0f9a17abe801" />
 
 **Output:**
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/2af4ec6a-b189-463d-9635-467fb7ba2c08" />
 
 **RTL**
 
