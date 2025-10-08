@@ -41,11 +41,12 @@ RegisterNumber:*/25015705
 
 **RTL realization**
 1.<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0db34252-4865-410e-a513-0f9a17abe801" />
-2.<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/eb9341cd-f1c3-4f32-b71f-43a989539257" />
+
+
 
 **Output:**
 1.<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/2af4ec6a-b189-463d-9635-467fb7ba2c08" />
-2.<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/d0b0e78d-cd63-49ee-986d-3fba9230c692" />
+
 
 **RTL**
 
