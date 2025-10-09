@@ -47,7 +47,8 @@ RegisterNumber:*/25015705
 
 **Output:**
 1.<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/2af4ec6a-b189-463d-9635-467fb7ba2c08" />
-2.<img width="1598" height="894" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/502f226e-d361-4bc7-b91c-c5b901c8925f" />
+2.<img width="1570" height="834" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/d2faa518-6e74-43b2-9082-7e0a28c245cb" />
+
 
 
 **RTL**
